@@ -4,8 +4,8 @@ Prueba Hackaton
 INTEGRANTES:
 
 
-Christian Mar
+Christian Mar 23
 
-Esteban Angeles
+Esteban Angeles 20
 
 2026
