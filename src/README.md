@@ -4,8 +4,10 @@ Prueba Hackaton
 INTEGRANTES:
 
 
-Christian Mar 23
-
 Esteban Angeles 20
+80
+Christian Mar 23
+87.5
+
 
 2026
