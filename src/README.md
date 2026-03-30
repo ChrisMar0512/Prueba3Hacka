@@ -5,9 +5,9 @@ INTEGRANTES:
 
 
 Christian Mar
-87
+87.5
 
 Esteban Angeles
-80
+80.4
 
 2026
